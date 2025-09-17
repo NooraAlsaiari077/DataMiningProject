@@ -21,3 +21,5 @@ The primary objective is to classify students based on the Grade column (pass vs
 Project Motivation
 
 The motivation behind this project is to better understand the influence of gaming on students’ academic lives. For instance, certain types of games may be associated with higher or lower academic performance, while excessive gaming might disrupt students’ study habits and concentration. By identifying these relationships, the project aims to encourage healthier balances between studying and gaming, provide insights for parental involvement, and support strategies that can enhance academic performance, particularly for students at risk of failing.
+
+ Student names : Reema Al Saud - Noora Alsaiari - Hawra Alhammad - Sana Aljaber - Gharsah Almusaeed
